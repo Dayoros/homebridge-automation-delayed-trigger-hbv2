@@ -4,7 +4,7 @@ module.exports = function(homebridge) {
   Service = homebridge.hap.Service;
   Characteristic = homebridge.hap.Characteristic;
 
-  homebridge.registerAccessory("homebridge-automation-delayed-trigger", "AutomationDelayedTrigger", AutomationDelayedTrigger);
+  homebridge.registerAccessory("homebridge-automation-delayed-trigger-hbv2", "AutomationDelayedTrigger", AutomationDelayedTrigger);
 }
 
 function AutomationDelayedTrigger(log, config) {

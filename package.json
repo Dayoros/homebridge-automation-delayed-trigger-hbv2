@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-automation-delayed-trigger",
+  "name": "homebridge-automation-delayed-trigger-hbv2",
   "version": "0.0.1",
   "description": "Trigger an event after X seconds",
   "license": "ISC",
